@@ -1,11 +1,12 @@
-# 🌳 Baobab
+# 🌳 Baobab-Lab
 
 > Thoughtful software. Creative systems.
 
-Welcome to **Baobab-Lab** — a space for open-source tools, experiments, and ideas rooted in simplicity, resilience, and creativity.
-
+Welcome to **Baobab-Lab** — An African collective crafting simple, creative software.
 ---
 
 ## 🔧 Projects
 
-- **Pin-Pointe** –   
+- **Pin-Pointe** –
+
+---
