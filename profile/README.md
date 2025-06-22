@@ -1,12 +1,6 @@
 # 🌳 Baobab-Lab
 
-> Thoughtful software. Creative systems.
-
-Welcome to **Baobab-Lab** — An African collective crafting simple, creative software.
----
+Welcome to **Baobab-Lab** — An African collective crafting simple, thoughtful software.
 
 ## 🔧 Projects
-
 - **Pin-Pointe** –
-
----
